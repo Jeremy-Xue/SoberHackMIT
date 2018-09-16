@@ -11,15 +11,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="We've detected that your BAC is above 0.08, the legal limit to drive. We have restricted you from starting your vehicle, and will assist you in organizing a rideshare or designated driver"
+        android:text="Welcome to Sober"
         />
 
-    <com.lyft.lyftbutton.LyftButton
-        android:id="@+id/lyft_button"
-        android:layout_width="1000dp"
-        android:layout_height="100dp"
-        lyft:lyftStyle="lyftMulberryDark"
-        />
 
 
 </LinearLayout>

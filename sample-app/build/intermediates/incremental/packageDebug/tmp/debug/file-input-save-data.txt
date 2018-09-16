@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Sep 16 02:00:32 EDT 2018
+#Sun Sep 16 03:18:37 EDT 2018
 2.base=/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/transforms/dexMerger/debug/14
 5.set=DEX
 0.path=classes.dex
