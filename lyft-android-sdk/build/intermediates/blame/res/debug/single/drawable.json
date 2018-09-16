@@ -1,11 +1,27 @@
 [
     {
+        "merged": "/Users/jeremy/Desktop/Sober/lyft-android-sdk/build/intermediates/res/merged/debug/drawable/btn_gradient_purple_rounded.xml",
+        "source": "/Users/jeremy/Desktop/Sober/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/drawable/btn_gradient_purple_rounded.xml"
+    },
+    {
         "merged": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/res/merged/debug/drawable/gradient_purple_rounded.xml",
         "source": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/drawable/gradient_purple_rounded.xml"
     },
     {
         "merged": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/res/merged/debug/drawable/btn_hotpink_rounded.xml",
         "source": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/drawable/btn_hotpink_rounded.xml"
+    },
+    {
+        "merged": "/Users/jeremy/Desktop/Sober/lyft-android-sdk/build/intermediates/res/merged/debug/drawable/btn_hotpink_rounded.xml",
+        "source": "/Users/jeremy/Desktop/Sober/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/drawable/btn_hotpink_rounded.xml"
+    },
+    {
+        "merged": "/Users/jeremy/Desktop/Sober/lyft-android-sdk/build/intermediates/res/merged/debug/drawable/gradient_purple_rounded.xml",
+        "source": "/Users/jeremy/Desktop/Sober/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/drawable/gradient_purple_rounded.xml"
+    },
+    {
+        "merged": "/Users/jeremy/Desktop/Sober/lyft-android-sdk/build/intermediates/res/merged/debug/drawable/btn_white_rounded.xml",
+        "source": "/Users/jeremy/Desktop/Sober/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/drawable/btn_white_rounded.xml"
     },
     {
         "merged": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/res/merged/debug/drawable/btn_white_rounded.xml",

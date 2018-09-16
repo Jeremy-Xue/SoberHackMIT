@@ -27,9 +27,8 @@
       </map>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="467" />
-    <option name="y" value="387" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="618" />
     <option name="width" value="1400" />
     <option name="height" value="798" />
   </component>
@@ -194,8 +193,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="467" y="387" width="1400" height="798" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="618" width="1400" height="798" extended-state="1" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />

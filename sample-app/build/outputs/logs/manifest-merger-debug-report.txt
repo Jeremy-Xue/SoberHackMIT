@@ -1,87 +1,134 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [:lyft-button] /Users/jeremy/Desktop/Sober/lyft-button/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/2194ac81d23d313742dd94ef5602df93/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-location-9.4.0.aar/ff91ecd04de27f0f6e2453631ecbd48f/AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7b8d9ca57c877688ebddc4953c6165c8/AndroidManifest.xml:2:1-11:12
+MERGED from [:deeplink] /Users/jeremy/Desktop/Sober/deeplink/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/855b3042cbcbc357ba9e845202d3ddd7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/da9a7ec4da0b144bdaa7d7b29a3f1e55/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/9413288c0e989777310d0b22ae6e8fb5/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/9f3e21fa58862228813b0e3e1f1f1d19/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/fcd196793cfcd2145f6978927527c066/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/3725a6a9f703bbdf1d5bb0cf0bedfb42/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:2:11-33
-		INJECTED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:11-33
+		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:3:5-63
+		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:3:5-63
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:6:5-79
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:7:5-67
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:7:5-67
 	android:name
-		ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:7:22-64
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:7:22-64
 application
-ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:9:5-21:19
-MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:9:5-21:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/2194ac81d23d313742dd94ef5602df93/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/2194ac81d23d313742dd94ef5602df93/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-location-9.4.0.aar/ff91ecd04de27f0f6e2453631ecbd48f/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-location-9.4.0.aar/ff91ecd04de27f0f6e2453631ecbd48f/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7b8d9ca57c877688ebddc4953c6165c8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7b8d9ca57c877688ebddc4953c6165c8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/855b3042cbcbc357ba9e845202d3ddd7/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/855b3042cbcbc357ba9e845202d3ddd7/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/da9a7ec4da0b144bdaa7d7b29a3f1e55/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/da9a7ec4da0b144bdaa7d7b29a3f1e55/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/9413288c0e989777310d0b22ae6e8fb5/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/9413288c0e989777310d0b22ae6e8fb5/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/9f3e21fa58862228813b0e3e1f1f1d19/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/9f3e21fa58862228813b0e3e1f1f1d19/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/fcd196793cfcd2145f6978927527c066/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/fcd196793cfcd2145f6978927527c066/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/3725a6a9f703bbdf1d5bb0cf0bedfb42/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/3725a6a9f703bbdf1d5bb0cf0bedfb42/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:12:9-41
-	android:allowBackup
-		ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:12:9-41
 	android:icon
-		ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:11:9-43
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:10:9-35
 activity#com.lyft.sdk.SampleLocationAwareActivity
-ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:14:9-20:20
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:14:19-62
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:15:13-19:29
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:14:19-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.lyft:lyft-button:1.0.4-SNAPSHOT] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/AndroidManifest.xml:8:5-10:41
-MERGED from [com.lyft:deeplink:1.0.4-SNAPSHOT] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.lyft/deeplink/1.0.4-SNAPSHOT/AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
-MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
+MERGED from [:lyft-button] /Users/jeremy/Desktop/Sober/lyft-button/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:lyft-button] /Users/jeremy/Desktop/Sober/lyft-button/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/2194ac81d23d313742dd94ef5602df93/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/2194ac81d23d313742dd94ef5602df93/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-location-9.4.0.aar/ff91ecd04de27f0f6e2453631ecbd48f/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-location-9.4.0.aar/ff91ecd04de27f0f6e2453631ecbd48f/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7b8d9ca57c877688ebddc4953c6165c8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7b8d9ca57c877688ebddc4953c6165c8/AndroidManifest.xml:5:5-7:41
+MERGED from [:deeplink] /Users/jeremy/Desktop/Sober/deeplink/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:deeplink] /Users/jeremy/Desktop/Sober/deeplink/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/855b3042cbcbc357ba9e845202d3ddd7/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/855b3042cbcbc357ba9e845202d3ddd7/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/da9a7ec4da0b144bdaa7d7b29a3f1e55/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/da9a7ec4da0b144bdaa7d7b29a3f1e55/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/9413288c0e989777310d0b22ae6e8fb5/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/9413288c0e989777310d0b22ae6e8fb5/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/9f3e21fa58862228813b0e3e1f1f1d19/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/9f3e21fa58862228813b0e3e1f1f1d19/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/fcd196793cfcd2145f6978927527c066/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/fcd196793cfcd2145f6978927527c066/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/3725a6a9f703bbdf1d5bb0cf0bedfb42/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/3725a6a9f703bbdf1d5bb0cf0bedfb42/AndroidManifest.xml:20:5-43
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/2194ac81d23d313742dd94ef5602df93/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jeremy/Downloads/lyft-android-sdk/sample-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:20:9-22:45
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/9413288c0e989777310d0b22ae6e8fb5/AndroidManifest.xml:20:9-22:45
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:22:19-43
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/9413288c0e989777310d0b22ae6e8fb5/AndroidManifest.xml:22:19-43
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:21:19-78
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/9413288c0e989777310d0b22ae6e8fb5/AndroidManifest.xml:21:19-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:20:19-85
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/9413288c0e989777310d0b22ae6e8fb5/AndroidManifest.xml:20:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:21:9-23:69
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/fcd196793cfcd2145f6978927527c066/AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:23:13-66
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/fcd196793cfcd2145f6978927527c066/AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:22:13-58
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/fcd196793cfcd2145f6978927527c066/AndroidManifest.xml:22:13-58

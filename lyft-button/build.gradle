@@ -19,12 +19,12 @@ android {
 }
 
 dependencies {
-    compile project(path: ':networking')
-    compile project(path: ':deeplink')
+    implementation project(path: ':networking')
+    implementation project(path: ':deeplink')
 
-    testCompile 'junit:junit:' + junitVersion
-    testCompile 'org.mockito:mockito-core:' + mockitoVersion
-    testCompile project(path: ':test-utils')
+    testImplementation 'junit:junit:' + junitVersion
+    testImplementation 'org.mockito:mockito-core:' + mockitoVersion
+    testImplementation project(path: ':test-utils')
 }
 
 apply from: rootProject.file('gradle/gradle-mvn-push.gradle')

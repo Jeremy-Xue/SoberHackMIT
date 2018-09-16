@@ -10,5 +10,17 @@
     {
         "merged": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-button/build/intermediates/res/merged/release/drawable-v21/btn_gradient_purple_rounded.xml",
         "source": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-button/src/main/res/drawable-v21/btn_gradient_purple_rounded.xml"
+    },
+    {
+        "merged": "/Users/jeremy/Desktop/Sober/lyft-button/build/intermediates/res/merged/release/drawable-v21/btn_white_rounded.xml",
+        "source": "/Users/jeremy/Desktop/Sober/lyft-button/src/main/res/drawable-v21/btn_white_rounded.xml"
+    },
+    {
+        "merged": "/Users/jeremy/Desktop/Sober/lyft-button/build/intermediates/res/merged/release/drawable-v21/btn_hotpink_rounded.xml",
+        "source": "/Users/jeremy/Desktop/Sober/lyft-button/src/main/res/drawable-v21/btn_hotpink_rounded.xml"
+    },
+    {
+        "merged": "/Users/jeremy/Desktop/Sober/lyft-button/build/intermediates/res/merged/release/drawable-v21/btn_gradient_purple_rounded.xml",
+        "source": "/Users/jeremy/Desktop/Sober/lyft-button/src/main/res/drawable-v21/btn_gradient_purple_rounded.xml"
     }
 ]

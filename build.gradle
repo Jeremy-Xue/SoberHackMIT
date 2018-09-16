@@ -3,9 +3,10 @@
 buildscript {
     repositories {
         jcenter()
+        google()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.2.2'
+        classpath 'com.android.tools.build:gradle:3.1.4'
     }
 }
 
@@ -32,7 +33,7 @@ subprojects { subProject ->
 subprojects {
     ext.androidBuildToolsVersion = "23.0.3"
     ext.androidCompileSDK = 23
-    ext.androidMinSdk = 15
+    ext.androidMinSdk = 22
     ext.androidSupportLibrariesVersion = '23.4.0'
     ext.androidTargetSDK = 23
     ext.googlePlayVersion = '9.4.0'

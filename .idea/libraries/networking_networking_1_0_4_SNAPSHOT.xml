@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="networking.networking-1.0.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/networking/build/libs/networking-1.0.4-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -20,11 +20,19 @@ android {
 }
 
 dependencies {
-    compile project(path: ':networking')
-    compile project(path: ':lyft-button')
+    implementation project(path: ':networking')
+    implementation project(path: ':lyft-button')
 
-    compile 'com.android.support:appcompat-v7:' + androidSupportLibrariesVersion
-    compile 'com.google.android.gms:play-services-location:' + googlePlayVersion
+    implementation 'com.android.support:appcompat-v7:' + androidSupportLibrariesVersion
+    implementation 'com.google.android.gms:play-services-location:' + googlePlayVersion
+    testImplementation 'org.mockito:mockito-core:1.10.19'
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'org.powermock:powermock-api-mockito:1.6.4'
+    testImplementation 'org.powermock:powermock-module-junit4-rule-agent:1.6.4'
+    testImplementation 'org.powermock:powermock-module-junit4-rule:1.6.4'
+    testImplementation 'org.powermock:powermock-module-junit4:1.6.4'
 
-    testCompile 'junit:junit:' + junitVersion
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    implementation fileTree(dir: 'libs', include: ['*.aar'])
+    testImplementation 'junit:junit:' + junitVersion
 }

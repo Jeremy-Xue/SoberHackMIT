@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/jeremy/Desktop/Sober/lyft-button/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/prime_time_white.png",
+        "source": "/Users/jeremy/Desktop/Sober/lyft-button/src/main/res/drawable-xxxhdpi/prime_time_white.png"
+    },
+    {
         "merged": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-button/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/wordmark_thin_white.png",
         "source": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-button/src/main/res/drawable-xxxhdpi/wordmark_thin_white.png"
+    },
+    {
+        "merged": "/Users/jeremy/Desktop/Sober/lyft-button/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/prime_time_mulberry.png",
+        "source": "/Users/jeremy/Desktop/Sober/lyft-button/src/main/res/drawable-xxxhdpi/prime_time_mulberry.png"
     },
     {
         "merged": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-button/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/app_icon.png",
@@ -12,16 +20,36 @@
         "source": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-button/src/main/res/drawable-xxxhdpi/prime_time_mulberry.png"
     },
     {
+        "merged": "/Users/jeremy/Desktop/Sober/lyft-button/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/wordmark_thin_white.png",
+        "source": "/Users/jeremy/Desktop/Sober/lyft-button/src/main/res/drawable-xxxhdpi/wordmark_thin_white.png"
+    },
+    {
         "merged": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-button/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/prime_time_white.png",
         "source": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-button/src/main/res/drawable-xxxhdpi/prime_time_white.png"
+    },
+    {
+        "merged": "/Users/jeremy/Desktop/Sober/lyft-button/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/wordmark_thin_mulberry.png",
+        "source": "/Users/jeremy/Desktop/Sober/lyft-button/src/main/res/drawable-xxxhdpi/wordmark_thin_mulberry.png"
     },
     {
         "merged": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-button/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/wordmark_thin_pink.png",
         "source": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-button/src/main/res/drawable-xxxhdpi/wordmark_thin_pink.png"
     },
     {
+        "merged": "/Users/jeremy/Desktop/Sober/lyft-button/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/wordmark_thin_pink.png",
+        "source": "/Users/jeremy/Desktop/Sober/lyft-button/src/main/res/drawable-xxxhdpi/wordmark_thin_pink.png"
+    },
+    {
+        "merged": "/Users/jeremy/Desktop/Sober/lyft-button/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/app_icon.png",
+        "source": "/Users/jeremy/Desktop/Sober/lyft-button/src/main/res/drawable-xxxhdpi/app_icon.png"
+    },
+    {
         "merged": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-button/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/prime_time_charcoal.png",
         "source": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-button/src/main/res/drawable-xxxhdpi/prime_time_charcoal.png"
+    },
+    {
+        "merged": "/Users/jeremy/Desktop/Sober/lyft-button/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/prime_time_charcoal.png",
+        "source": "/Users/jeremy/Desktop/Sober/lyft-button/src/main/res/drawable-xxxhdpi/prime_time_charcoal.png"
     },
     {
         "merged": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-button/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/wordmark_thin_mulberry.png",
