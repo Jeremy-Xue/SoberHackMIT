@@ -12,31 +12,86 @@
     <list default="true" id="e38668bb-fbcf-4d29-97ed-380f6bf0542a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/lyft-android-sdk/lyft-android-sdk.iml" afterPath="$PROJECT_DIR$/lyft-android-sdk/lyft-android-sdk.iml" />
+      <change beforePath="$PROJECT_DIR$/lyft-button/lyft-button.iml" afterPath="$PROJECT_DIR$/lyft-button/lyft-button.iml" />
+      <change beforePath="$PROJECT_DIR$/networking/networking.iml" afterPath="$PROJECT_DIR$/networking/networking.iml" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/generated/source/r/debug/android/support/constraint/R.java" afterPath="$PROJECT_DIR$/sample-app/build/generated/source/r/debug/android/support/constraint/R.java" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/sample-app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/generated/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/sample-app/build/generated/source/r/debug/com/google/android/gms/R.java" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/generated/source/r/debug/com/lyft/lyftbutton/R.java" afterPath="$PROJECT_DIR$/sample-app/build/generated/source/r/debug/com/lyft/lyftbutton/R.java" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/generated/source/r/debug/com/lyft/sdk/R.java" afterPath="$PROJECT_DIR$/sample-app/build/generated/source/r/debug/com/lyft/sdk/R.java" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/blame/res/debug/multi-v2/debug.json" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/blame/res/debug/multi-v2/values.json" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/blame/res/debug/single/debug.json" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/build-info/debug/build-info.xml" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/android/support/constraint/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/google/android/gms/R$drawable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/google/android/gms/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/google/android/gms/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/google/android/gms/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/google/android/gms/R$string.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/google/android/gms/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/google/android/gms/R$styleable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/google/android/gms/R$styleable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/lyftbutton/R$dimen.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/lyftbutton/R$dimen.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/lyftbutton/R$drawable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/lyftbutton/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/lyftbutton/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/lyftbutton/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/lyftbutton/R$layout.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/lyftbutton/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/lyftbutton/R$string.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/lyftbutton/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$dimen.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$dimen.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$drawable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$integer.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$integer.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$layout.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$mipmap.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$mipmap.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$string.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$style.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$style.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$styleable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/R$styleable.class" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/SampleBasicActivity.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/SampleBasicActivity.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/SampleLocationAwareActivity$1.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/SampleLocationAwareActivity$1.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/SampleLocationAwareActivity$2.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/SampleLocationAwareActivity$2.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/SampleLocationAwareActivity$3$1.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/SampleLocationAwareActivity$3$1.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/SampleLocationAwareActivity$3.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/SampleLocationAwareActivity$3.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/SampleLocationAwareActivity$4.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/SampleLocationAwareActivity$4.class" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/SampleLocationAwareActivity.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/classes/debug/com/lyft/sdk/SampleLocationAwareActivity.class" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/android/support/constraint/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$dimen.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$style.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$drawable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$string.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$styleable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$styleable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/lyftbutton/R$dimen.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/lyftbutton/R$dimen.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/lyftbutton/R$drawable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/lyftbutton/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/lyftbutton/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/lyftbutton/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/lyftbutton/R$layout.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/lyftbutton/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/lyftbutton/R$string.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/lyftbutton/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$dimen.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$dimen.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$drawable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$integer.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$integer.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$layout.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$mipmap.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$mipmap.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$string.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$style.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$style.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$styleable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/R$styleable.class" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/SampleBasicActivity.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/SampleBasicActivity.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/SampleLocationAwareActivity$1.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/SampleLocationAwareActivity$1.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/SampleLocationAwareActivity$2.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/SampleLocationAwareActivity$2.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/SampleLocationAwareActivity$3$1.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/SampleLocationAwareActivity$3$1.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/SampleLocationAwareActivity$3.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/SampleLocationAwareActivity$3.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/SampleLocationAwareActivity$4.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/SampleLocationAwareActivity$4.class" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/SampleLocationAwareActivity.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental-verifier/debug/com/lyft/sdk/SampleLocationAwareActivity.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" />
@@ -49,141 +104,7 @@
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az-rAZ/values-az-rAZ.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn-rBD/values-bn-rBD.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et-rEE/values-et-rEE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu-rES/values-eu-rES.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu-rIN/values-gu-rIN.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h320dp-v13/values-h320dp-v13.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy-rAM/values-hy-rAM.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is-rIS/values-is-rIS.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka-rGE/values-ka-rGE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk-rKZ/values-kk-rKZ.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km-rKH/values-km-rKH.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn-rIN/values-kn-rIN.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky-rKG/values-ky-rKG.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo-rLA/values-lo-rLA.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml-rIN/values-ml-rIN.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn-rMN/values-mn-rMN.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr-rIN/values-mr-rIN.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms-rMY/values-ms-rMY.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my-rMM/values-my-rMM.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne-rNP/values-ne-rNP.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa-rIN/values-pa-rIN.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si-rLK/values-si-rLK.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq-rAL/values-sq-rAL.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta-rIN/values-ta-rIN.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te-rIN/values-te-rIN.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur-rPK/values-ur-rPK.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/_u35TmLIg7ajOcMr2+Qg8crbgAM=" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/_u35TmLIg7ajOcMr2+Qg8crbgAM=" />
@@ -197,39 +118,119 @@
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/res/debug/resources-debug.ap_" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/res/merged/debug/layout_activity_sample_basic.xml.flat" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/res/merged/debug/layout_activity_sample_basic.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/res/merged/debug/values_values.arsc.flat" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/dep/dependencies.apk" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/dep/dependencies.apk" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_0.apk" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_1.apk" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_2.apk" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_3.apk" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_4.apk" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_5.apk" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_5.apk" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_6.apk" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_7.apk" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/split-apk/debug/slices/slice_8.apk" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/symbols/debug/R.txt" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$dimen.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$dimen.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$drawable.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$id.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$integer.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$integer.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$layout.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$mipmap.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$mipmap.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$string.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$style.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$style.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$styleable.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/R$styleable.dex" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/SampleBasicActivity.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/SampleBasicActivity.dex" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/SampleLocationAwareActivity$1.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/SampleLocationAwareActivity$1.dex" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/SampleLocationAwareActivity$2.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/SampleLocationAwareActivity$2.dex" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/SampleLocationAwareActivity$3$1.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/SampleLocationAwareActivity$3$1.dex" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/SampleLocationAwareActivity$3.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/SampleLocationAwareActivity$3.dex" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/SampleLocationAwareActivity$4.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/SampleLocationAwareActivity$4.dex" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/SampleLocationAwareActivity.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/101/com/lyft/sdk/SampleLocationAwareActivity.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/102/com/lyft/lyftbutton/R$dimen.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/102/com/lyft/lyftbutton/R$dimen.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/102/com/lyft/lyftbutton/R$drawable.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/102/com/lyft/lyftbutton/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/102/com/lyft/lyftbutton/R$id.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/102/com/lyft/lyftbutton/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/102/com/lyft/lyftbutton/R$layout.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/102/com/lyft/lyftbutton/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/102/com/lyft/lyftbutton/R$string.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/102/com/lyft/lyftbutton/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/android/support/v7/appcompat/R$dimen.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/android/support/v7/appcompat/R$dimen.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/android/support/v7/appcompat/R$drawable.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/android/support/v7/appcompat/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/android/support/v7/appcompat/R$id.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/android/support/v7/appcompat/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/android/support/v7/appcompat/R$layout.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/android/support/v7/appcompat/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/android/support/v7/appcompat/R$string.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/android/support/v7/appcompat/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/android/support/v7/appcompat/R$style.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/android/support/v7/appcompat/R$style.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/com/google/android/gms/R$drawable.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/com/google/android/gms/R$drawable.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/com/google/android/gms/R$id.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/com/google/android/gms/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/com/google/android/gms/R$string.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/com/google/android/gms/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/com/google/android/gms/R$styleable.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/104/com/google/android/gms/R$styleable.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/106/android/support/constraint/R$id.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/106/android/support/constraint/R$id.dex" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/96.jar" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/96.jar" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexMerger/debug/1/classes.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexMerger/debug/1/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexMerger/debug/10/classes.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexMerger/debug/10/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexMerger/debug/4/classes.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexMerger/debug/4/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexMerger/debug/5/classes.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexMerger/debug/5/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/android/support/constraint/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$dimen.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$style.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$drawable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$string.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$styleable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$styleable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/lyftbutton/R$dimen.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/lyftbutton/R$dimen.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/lyftbutton/R$drawable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/lyftbutton/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/lyftbutton/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/lyftbutton/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/lyftbutton/R$layout.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/lyftbutton/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/lyftbutton/R$string.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/lyftbutton/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$dimen.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$dimen.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$drawable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$integer.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$integer.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$layout.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$mipmap.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$mipmap.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$string.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$style.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$style.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$styleable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/R$styleable.class" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/SampleBasicActivity.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/SampleBasicActivity.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/SampleLocationAwareActivity$1.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/SampleLocationAwareActivity$1.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/SampleLocationAwareActivity$2.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/SampleLocationAwareActivity$2.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/SampleLocationAwareActivity$3$1.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/SampleLocationAwareActivity$3$1.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/SampleLocationAwareActivity$3.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/SampleLocationAwareActivity$3.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/SampleLocationAwareActivity$4.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/SampleLocationAwareActivity$4.class" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/SampleLocationAwareActivity.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRun/debug/0/com/lyft/sdk/SampleLocationAwareActivity.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/buildId.txt" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/buildId.txt" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$dimen.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$dimen.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$drawable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$integer.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$integer.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$layout.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$mipmap.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$mipmap.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$string.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$style.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$style.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$styleable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/R$styleable.class" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/SampleBasicActivity.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/SampleBasicActivity.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/SampleLocationAwareActivity$1.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/SampleLocationAwareActivity$1.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/SampleLocationAwareActivity$2.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/SampleLocationAwareActivity$2.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/SampleLocationAwareActivity$3$1.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/SampleLocationAwareActivity$3$1.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/SampleLocationAwareActivity$3.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/SampleLocationAwareActivity$3.class" />
-      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/SampleLocationAwareActivity$4.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/SampleLocationAwareActivity$4.class" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/SampleLocationAwareActivity.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/1/com/lyft/sdk/SampleLocationAwareActivity.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/2/com/lyft/lyftbutton/R$dimen.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/2/com/lyft/lyftbutton/R$dimen.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/2/com/lyft/lyftbutton/R$drawable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/2/com/lyft/lyftbutton/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/2/com/lyft/lyftbutton/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/2/com/lyft/lyftbutton/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/2/com/lyft/lyftbutton/R$layout.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/2/com/lyft/lyftbutton/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/2/com/lyft/lyftbutton/R$string.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/2/com/lyft/lyftbutton/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/android/support/v7/appcompat/R$dimen.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/android/support/v7/appcompat/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/android/support/v7/appcompat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/android/support/v7/appcompat/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/android/support/v7/appcompat/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/android/support/v7/appcompat/R$style.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/com/google/android/gms/R$drawable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/com/google/android/gms/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/com/google/android/gms/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/com/google/android/gms/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/com/google/android/gms/R$string.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/com/google/android/gms/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/com/google/android/gms/R$styleable.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/4/com/google/android/gms/R$styleable.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/6/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/instantRunSlicer/debug/6/android/support/constraint/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="$PROJECT_DIR$/sample-app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" />
       <change beforePath="$PROJECT_DIR$/sample-app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/sample-app/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change beforePath="$PROJECT_DIR$/sample-app/sample-app.iml" afterPath="$PROJECT_DIR$/sample-app/sample-app.iml" />
       <change beforePath="$PROJECT_DIR$/sample-app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/sample-app/src/main/AndroidManifest.xml" />
       <change beforePath="$PROJECT_DIR$/sample-app/src/main/java/com/lyft/sdk/SampleBasicActivity.java" afterPath="$PROJECT_DIR$/sample-app/src/main/java/com/lyft/sdk/SampleBasicActivity.java" />
-      <change beforePath="$PROJECT_DIR$/sample-app/src/main/java/com/lyft/sdk/SampleLocationAwareActivity.java" afterPath="$PROJECT_DIR$/sample-app/src/main/java/com/lyft/sdk/SampleLocationAwareActivity.java" />
       <change beforePath="$PROJECT_DIR$/sample-app/src/main/res/layout/activity_sample_basic.xml" afterPath="$PROJECT_DIR$/sample-app/src/main/res/layout/activity_sample_basic.xml" />
+      <change beforePath="$PROJECT_DIR$/test-utils/test-utils.iml" afterPath="$PROJECT_DIR$/test-utils/test-utils.iml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -255,18 +256,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample-app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
+            <state relative-caret-position="302">
               <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-utils/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -283,16 +274,6 @@
         </entry>
       </file>
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lyft-button/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-148">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/networking/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -302,13 +283,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SampleBasicActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SampleBasicActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample-app/src/main/java/com/lyft/sdk/SampleBasicActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="16" />
+            <state relative-caret-position="1327">
+              <caret line="109" column="49" lean-forward="false" selection-start-line="109" selection-start-column="49" selection-end-line="109" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2703#2976#0" expanded="true" />
+                <element signature="e#2975#2976#0" expanded="true" />
+                <element signature="e#4154#4609#0" expanded="true" />
+                <element signature="e#4608#4609#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IVehicleDataListener.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/jars/classes.jar!/com/gm/android/vehicle/signals/IVehicleDataListener.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding>
+                <marker date="1537099559000" expanded="false" signature="0:104" ph="/.../" />
               </folding>
             </state>
           </provider>
@@ -320,22 +317,34 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sample-app/src/main/AndroidManifest.xml">
           <provider editor-type-id="android-manifest">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-              <folding />
+            <state relative-caret-position="45">
+              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <folding>
+                <element signature="e#500#518#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -370,6 +379,11 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>context</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -5822,12 +5836,12 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="5" />
-    <option name="y" value="22" />
+    <option name="y" value="23" />
     <option name="width" value="1024" />
     <option name="height" value="798" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -5853,11 +5867,6 @@
             <path>
               <item name="Sober" type="1abcf292:AndroidViewProjectNode" />
               <item name="sample-app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="Sober" type="1abcf292:AndroidViewProjectNode" />
-              <item name="sample-app" type="feadf853:AndroidModuleNode" />
-              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
             </path>
             <path>
               <item name="Sober" type="1abcf292:AndroidViewProjectNode" />
@@ -5895,7 +5904,52 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Sober" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sober" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sober" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sober" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="sample-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sober" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sober" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="sample-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sober" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sober" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="sample-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sober" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sober" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="sample-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sober" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sober" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="sample-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scratches" />
     </panes>
   </component>
@@ -5909,10 +5963,14 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="device.picker.selection" value="GM_Info_3_for_Stock_Android_-_10_HD_API_23" />
+    <property name="device.picker.selection" value="GM_Info_3_for_Stock_Android_-_8_API_23" />
     <property name="android.project.structure.last.selected" value="sample-app" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="SearchEverywhereHistoryKey" value="compile&#9;PSI&#9;JAVA://sun.jvm.hotspot.opto.Compile" />
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5556" />
+    <property name="DEBUGGABLE_PROCESS" value="com.lyft.sdk" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="DEBUGGER_ID" value="Auto" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -6145,7 +6203,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="22" width="1024" height="798" extended-state="0" />
+    <frame x="5" y="23" width="1024" height="798" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -6160,12 +6218,12 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34521386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -6185,7 +6243,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -6230,14 +6290,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -6323,14 +6375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample-app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sample-app/src/main/res/layout/activity_sample_location_aware.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -6338,6 +6382,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-app/src/main/res/layout/activity_sample_basic.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -6356,34 +6427,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample-app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/jars/classes.jar!/com/gm/android/vehicle/signals/IVehicleDataListener.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample-app/src/main/res/layout/activity_sample_basic.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="75">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <marker date="1537099559000" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sample-app/src/main/java/com/lyft/sdk/SampleBasicActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="16" />
+        <state relative-caret-position="1327">
+          <caret line="109" column="49" lean-forward="false" selection-start-line="109" selection-start-column="49" selection-end-line="109" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2703#2976#0" expanded="true" />
+            <element signature="e#2975#2976#0" expanded="true" />
+            <element signature="e#4154#4609#0" expanded="true" />
+            <element signature="e#4608#4609#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding>
+            <element signature="e#500#518#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,9 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-30:12
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [hardware-1.0.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/hardware-1.0.0.aar/00d1d45289ae4f46e20cb565059b63fe/AndroidManifest.xml:2:1-13:12
+MERGED from [settings-1.4.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/settings-1.4.0.aar/98539d5463dd9f7270ea9b77480e2d1d/AndroidManifest.xml:2:1-13:12
+MERGED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:2:1-28:12
+MERGED from [signals-shared-constants-1.1.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-shared-constants-1.1.0.aar/df35e6e5b8e83580b317c106fdbfa6c7/AndroidManifest.xml:2:1-17:12
+MERGED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:2:1-25:12
 MERGED from [:lyft-button] /Users/jeremy/Desktop/Sober/lyft-button/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/2194ac81d23d313742dd94ef5602df93/AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-location-9.4.0.aar/ff91ecd04de27f0f6e2453631ecbd48f/AndroidManifest.xml:16:1-20:12
@@ -15,20 +20,20 @@ MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/.gra
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/9f3e21fa58862228813b0e3e1f1f1d19/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/fcd196793cfcd2145f6978927527c066/AndroidManifest.xml:16:1-26:12
 MERGED from [com.android.support:support-v4:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/3725a6a9f703bbdf1d5bb0cf0bedfb42/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:11-33
 		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
 		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-30:12
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
 		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-30:12
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
 		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:3:5-63
@@ -40,8 +45,22 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:7:5-67
 	android:name
 		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#com.gm.vehicle.permission.READ_MOTION_DRIVING_BEHAVIOR
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:8:5-94
+	android:name
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:8:22-91
 application
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:9:5-28:19
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from [hardware-1.0.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/hardware-1.0.0.aar/00d1d45289ae4f46e20cb565059b63fe/AndroidManifest.xml:11:5-47
+MERGED from [hardware-1.0.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/hardware-1.0.0.aar/00d1d45289ae4f46e20cb565059b63fe/AndroidManifest.xml:11:5-47
+MERGED from [settings-1.4.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/settings-1.4.0.aar/98539d5463dd9f7270ea9b77480e2d1d/AndroidManifest.xml:11:5-47
+MERGED from [settings-1.4.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/settings-1.4.0.aar/98539d5463dd9f7270ea9b77480e2d1d/AndroidManifest.xml:11:5-47
+MERGED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:15:5-26:19
+MERGED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:15:5-26:19
+MERGED from [signals-shared-constants-1.1.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-shared-constants-1.1.0.aar/df35e6e5b8e83580b317c106fdbfa6c7/AndroidManifest.xml:11:5-15:19
+MERGED from [signals-shared-constants-1.1.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-shared-constants-1.1.0.aar/df35e6e5b8e83580b317c106fdbfa6c7/AndroidManifest.xml:11:5-15:19
+MERGED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:17:5-23:19
+MERGED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:17:5-23:19
 MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/2194ac81d23d313742dd94ef5602df93/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/2194ac81d23d313742dd94ef5602df93/AndroidManifest.xml:25:5-20
 MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-location-9.4.0.aar/ff91ecd04de27f0f6e2453631ecbd48f/AndroidManifest.xml:19:5-20
@@ -60,34 +79,52 @@ MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/fcd196793cfcd2145f6978927527c066/AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/3725a6a9f703bbdf1d5bb0cf0bedfb42/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/3725a6a9f703bbdf1d5bb0cf0bedfb42/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:18:9-35
 	android:label
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:12:9-41
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:13:9-41
 	android:icon
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:11:9-43
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:11:9-35
 activity#com.lyft.sdk.SampleBasicActivity
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:14:9-20:20
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:14:19-54
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:15:19-54
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:19:27-74
 activity#com.lyft.sdk.SampleLocationAwareActivity
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:21:9-27:20
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:22:9-28:20
 	android:name
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:21:19-62
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:22:19-62
+intent-filter#action:name:android.intent.action.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.DEFAULT
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:24:17-72
+	android:name
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:24:25-69
 uses-sdk
 INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
 INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
+MERGED from [hardware-1.0.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/hardware-1.0.0.aar/00d1d45289ae4f46e20cb565059b63fe/AndroidManifest.xml:7:5-9:41
+MERGED from [hardware-1.0.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/hardware-1.0.0.aar/00d1d45289ae4f46e20cb565059b63fe/AndroidManifest.xml:7:5-9:41
+MERGED from [settings-1.4.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/settings-1.4.0.aar/98539d5463dd9f7270ea9b77480e2d1d/AndroidManifest.xml:7:5-9:41
+MERGED from [settings-1.4.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/settings-1.4.0.aar/98539d5463dd9f7270ea9b77480e2d1d/AndroidManifest.xml:7:5-9:41
+MERGED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:7:5-9:41
+MERGED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:7:5-9:41
+MERGED from [signals-shared-constants-1.1.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-shared-constants-1.1.0.aar/df35e6e5b8e83580b317c106fdbfa6c7/AndroidManifest.xml:7:5-9:41
+MERGED from [signals-shared-constants-1.1.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-shared-constants-1.1.0.aar/df35e6e5b8e83580b317c106fdbfa6c7/AndroidManifest.xml:7:5-9:41
+MERGED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:7:5-9:41
+MERGED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:7:5-9:41
 MERGED from [:lyft-button] /Users/jeremy/Desktop/Sober/lyft-button/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:lyft-button] /Users/jeremy/Desktop/Sober/lyft-button/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/2194ac81d23d313742dd94ef5602df93/AndroidManifest.xml:21:5-23:78
@@ -122,6 +159,60 @@ INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xm
 		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
 		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
 		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
+uses-permission#com.gm.apimanager.permission.VEHICLE_DATA_SERVICE
+ADDED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:11:5-89
+	android:name
+		ADDED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:11:22-86
+uses-permission#com.gm.apimanager.permission.ACCESS_VEHICLE_DATA_SERVICE
+ADDED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:12:5-96
+	android:name
+		ADDED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:12:22-93
+uses-permission#com.gm.apimanager.permission.ACCESS_SELF_REINSTALL_SERVICE
+ADDED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:13:5-98
+	android:name
+		ADDED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:13:22-95
+activity#com.gm.android.vehicle.signals.ApiManagerAlertActivity
+ADDED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:19:9-21:80
+	android:theme
+		ADDED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:21:13-77
+	android:name
+		ADDED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:20:13-82
+service#com.gm.android.vehicle.signals.ApiManagerIntentService
+ADDED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:24:13-82
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:11:22-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:12:22-78
+uses-permission#com.gm.permission.ToolkitEventServicePermission
+ADDED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:13:5-87
+	android:name
+		ADDED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:13:22-84
+uses-permission#com.gm.permission.ActivityPermissions
+ADDED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:14:5-77
+	android:name
+		ADDED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:14:22-74
+uses-permission#com.gm.permission.SignalsReceiverPermission
+ADDED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:15:5-83
+	android:name
+		ADDED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:15:22-80
+service#com.gm.android.vehicle.support.ToolkitInstrumentationService
+ADDED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:18:9-22:19
+	android:name
+		ADDED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:18:18-93
+intent-filter#action:name:com.gm.android.vehicle.TOOLKIT
+ADDED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:19:13-21:29
+action#com.gm.android.vehicle.TOOLKIT
+ADDED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:20:17-73
+	android:name
+		ADDED from [support-2.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2/AndroidManifest.xml:20:25-70
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/9413288c0e989777310d0b22ae6e8fb5/AndroidManifest.xml:20:9-22:45
 	android:exported

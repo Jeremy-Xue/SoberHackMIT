@@ -120,21 +120,29 @@
     <orderEntry type="jdk" jdkName="Android API 23 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: com.android.support.constraint:constraint-layout-solver:1.0.2@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.retrofit2:converter-gson:2.1.0@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.powermock:powermock-module-javaagent:1.6.4@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.mockito:mockito-core:1.10.19@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.powermock:powermock-module-junit4-common:1.6.4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.7@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.objenesis:objenesis:2.1@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-base-9.4.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.powermock:powermock-module-junit4-rule-agent:1.6.4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.retrofit2:retrofit:2.1.0@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.powermock:powermock-reflect:1.6.4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-shared-constants-1.1.0.aar/df35e6e5b8e83580b317c106fdbfa6c7:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/Users/jeremy/.gradle/caches/transforms-1/files-1.1/settings-1.4.0.aar/98539d5463dd9f7270ea9b77480e2d1d:unspecified@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.powermock:powermock-api-support:1.6.4@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.powermock:powermock-api-mockito:1.6.4@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-vector-drawable-23.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.8.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support.constraint:constraint-layout-1.0.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.powermock:powermock-classloading-base:1.6.4@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7-23.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/Users/jeremy/.gradle/caches/transforms-1/files-1.1/hardware-1.0.0.aar/00d1d45289ae4f46e20cb565059b63fe:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb:unspecified@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.powermock:powermock-core:1.6.4@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:animated-vector-drawable-23.4.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.javassist:javassist:3.20.0-GA@jar" level="project" />
@@ -145,6 +153,8 @@
     <orderEntry type="library" scope="TEST" name="Gradle: org.powermock:powermock-module-junit4:1.6.4@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.powermock:powermock-module-junit4-rule:1.6.4@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-basement-9.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp:3.3.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-2.0.1.aar/42641a16e947e368ed58708a0313fca2:unspecified@jar" level="project" />
     <orderEntry type="module" module-name="lyft-button" />
     <orderEntry type="module" module-name="networking" />
   </component>

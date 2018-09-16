@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w1920dp-v13/values-w1920dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/jeremy/.gradle/caches/transforms-1/files-1.1/settings-1.4.0.aar/98539d5463dd9f7270ea9b77480e2d1d/res/values-w1920dp-v13/values-w1920dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,164,220,274,332,388,445",
+                        "endColumns": "58,49,55,53,57,55,56,49",
+                        "endOffsets": "109,159,215,269,327,383,440,490"
+                    }
+                }
+            ]
+        }
+    ]
+}

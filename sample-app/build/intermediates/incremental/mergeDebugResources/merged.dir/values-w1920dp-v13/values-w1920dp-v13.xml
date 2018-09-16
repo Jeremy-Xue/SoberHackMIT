@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alert_dialog_button_height">167dp</dimen>
+    <dimen name="gm_large_text_size">48sp</dimen>
+    <dimen name="gm_list_row_item_height">142dp</dimen>
+    <dimen name="gm_menu_header_height">136dp</dimen>
+    <dimen name="gm_scroll_bar_thumb_height">89dp</dimen>
+    <dimen name="gm_scroll_bar_thumb_width">9dp</dimen>
+    <dimen name="gm_scroll_bar_track_width">18dp</dimen>
+    <dimen name="gm_small_text_size">38sp</dimen>
+</resources>
