@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/res/merged/debug/drawable-v21/btn_white_rounded.xml",
+        "source": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/drawable-v21/btn_white_rounded.xml"
+    },
+    {
+        "merged": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/res/merged/debug/drawable-v21/btn_hotpink_rounded.xml",
+        "source": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/drawable-v21/btn_hotpink_rounded.xml"
+    },
+    {
+        "merged": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/res/merged/debug/drawable-v21/btn_gradient_purple_rounded.xml",
+        "source": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/drawable-v21/btn_gradient_purple_rounded.xml"
+    }
+]

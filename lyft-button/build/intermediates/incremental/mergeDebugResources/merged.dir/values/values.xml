@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="dark_blue_1">#2a025d</color>
+    <color name="dark_blue_2">#1e0142</color>
+    <color name="grey_1">#F3F5F5</color>
+    <color name="grey_6">#F3F3F5</color>
+    <color name="hot_pink">#FF00BF</color>
+    <color name="hot_pink_2">#cf00b2</color>
+    <color name="hot_pink_3">#b8009f</color>
+    <color name="moon">#D8DCE6</color>
+    <color name="mulberry">#352384</color>
+    <color name="mulberry_2">#3F0280</color>
+    <color name="white">#FFFFFF</color>
+    <declare-styleable name="LyftButton"><attr format="enum" name="lyftStyle">
+            <enum name="lyftMulberryDark" value="0"/>
+            <enum name="lyftMulberryLight" value="1"/>
+            <enum name="lyftHotPink" value="2"/>
+            <enum name="lyftMultiColor" value="3"/>
+            <enum name="lyftLauncher" value="4"/>
+        </attr></declare-styleable>
+    <dimen name="button_corner_radius">4dp</dimen>
+    <dimen name="button_height">50dp</dimen>
+    <dimen name="button_padding">8dp</dimen>
+    <dimen name="button_width">260dp</dimen>
+    <string name="cost_estimate_range">$%1$d-%2$d</string>
+    <string name="fixed_cost_amount">$%1$.2f</string>
+    <string name="get_a_ride_text">Get a ride</string>
+    <string name="lyft_icon_content_desc">Lyft icon</string>
+    <string name="prime_time_icon_desc">Prime time icon</string>
+    <string name="ridetype_eta_text">%1$s in %2$d min</string>
+</resources>

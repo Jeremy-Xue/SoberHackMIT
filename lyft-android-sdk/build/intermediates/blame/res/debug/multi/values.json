@@ -1,0 +1,425 @@
+[
+    {
+        "outputFile": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 39,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 45,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 45,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 45,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 141,
+                        "endColumn": 45,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 40,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 40,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 40,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 40,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 42,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 42,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 44,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 44,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endColumn": 44,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 44,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 38,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 38,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 42,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endColumn": 42,
+                        "endOffset": 479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 484,
+                    "endColumn": 44,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 484,
+                        "endColumn": 44,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 529,
+                    "endColumn": 39,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 529,
+                        "endColumn": 39,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 944,
+                    "endColumn": 50,
+                    "endOffset": 990
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 944,
+                        "endColumn": 50,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 995,
+                    "endColumn": 44,
+                    "endOffset": 1035
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 44,
+                        "endOffset": 1035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1040,
+                    "endColumn": 44,
+                    "endOffset": 1080
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1040,
+                        "endColumn": 44,
+                        "endOffset": 1080
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1085,
+                    "endColumn": 44,
+                    "endOffset": 1125
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1085,
+                        "endColumn": 44,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1130,
+                    "endColumn": 58,
+                    "endOffset": 1184
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endColumn": 58,
+                        "endOffset": 1184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1189,
+                    "endColumn": 53,
+                    "endOffset": 1238
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1189,
+                        "endColumn": 53,
+                        "endOffset": 1238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1243,
+                    "endColumn": 54,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1243,
+                        "endColumn": 54,
+                        "endOffset": 1293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 60,
+                    "endOffset": 1354
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1298,
+                        "endColumn": 60,
+                        "endOffset": 1354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1359,
+                    "endColumn": 64,
+                    "endOffset": 1419
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1359,
+                        "endColumn": 64,
+                        "endOffset": 1419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1424,
+                    "endColumn": 62,
+                    "endOffset": 1482
+                },
+                "from": {
+                    "file": "/Users/jeremy/Downloads/lyft-android-sdk/lyft-android-sdk/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1424,
+                        "endColumn": 62,
+                        "endOffset": 1482
+                    }
+                }
+            }
+        ]
+    }
+]

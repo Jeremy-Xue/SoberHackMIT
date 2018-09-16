@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_a88ac3e2278b415a38644c9d3be63d0c90bbebf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/okio-1.8.0_f6a6bbcc649215490d5e71bfe0bd11f2e309ccd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_c49436b97c41d0a13fd2aad4323b4b94b694cc0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_3098b7785ab8002524d8c7cad8290aacea6ab7a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/okhttp-3.3.1_aba18024978783f418e80450b54d9f4b114087b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.lyft/deeplink/1.0.4-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5fca38df1b40defa2494663c3292db49c0482194">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/com.lyft-deeplink-1.0.4-SNAPSHOT_be100a48443c821f37f9ad123c5d6bfece582ba2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_f749082f491b06a202775df332a11c8f1a802553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.4.0_4278b160be8c8a4638292b2b4d3057721ecf379a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_802107346fb3dab10caffb1243220956340c780b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_c7c8e74b4fa4d1efa39812389a82bb415eb20356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/Downloads/lyft-android-sdk/networking/build/libs/networking-1.0.4-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1ab1a9814aba966c3a604728d099c21c3a48c849">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/networking-1.0.4-SNAPSHOT_e4aab7b5167e23c963e13fb94793983b66f5db57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/gson-2.7_4747ef1e0fc63718cdd8429d24a63afd9a64c00a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_b68d7573f2e8062b5f91668e3bc75d9973bc99bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations-java5/15.0/7011b4551a8451906759b05814c58b9eb829ea9b/annotations-java5-15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/annotations-java5-15.0_b4cb72173abcb88f071bcd0a168353eef54993d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.lyft/lyft-button/1.0.4-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="61a866831f1dd551ffbb9a9246d0c57602cd2a3f">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/com.lyft-lyft-button-1.0.4-SNAPSHOT_f889e86cd7c55298526331bff1d859d54a67e818.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_e3c791630b4c7b6b4ffa52436ab8b19c3d889855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_281b8f8eee2f8376f3ae75f745f0e8b4d149e4c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_bd150ddddb781f6e9997b349ee0e5663a2dd4774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/jeremy/Downloads/lyft-android-sdk/sample-app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_3986773898c246d5d688f93fc4eb29988c2c6c2d.jar" />
+    </item>
+
+</items>

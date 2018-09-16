@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../deeplink/deeplink.iml" filepath="$PROJECT_DIR$/../deeplink/deeplink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lyft-android-sdk.iml" filepath="$PROJECT_DIR$/../lyft-android-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lyft-android-sdk/lyft-android-sdk-lyft-android-sdk.iml" filepath="$PROJECT_DIR$/../lyft-android-sdk/lyft-android-sdk-lyft-android-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lyft-button/lyft-button.iml" filepath="$PROJECT_DIR$/../lyft-button/lyft-button.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../networking/networking.iml" filepath="$PROJECT_DIR$/../networking/networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-app.iml" filepath="$PROJECT_DIR$/sample-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test-utils/test-utils.iml" filepath="$PROJECT_DIR$/../test-utils/test-utils.iml" />
+    </modules>
+  </component>
+</project>
