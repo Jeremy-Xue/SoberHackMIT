@@ -6,7 +6,7 @@
     density="mdpi"
     format="10"
     plugin-version="3.1.4"
-    timestamp="1537102574275"
+    timestamp="1537125181877"
     token="1462289516986556435"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -25,25 +25,13 @@
 
     <build
         build-mode="FULL"
-        timestamp="1537101747345"
+        timestamp="1537108461827"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
         <artifact
             location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/slices/slice_5.apk"
@@ -55,10 +43,22 @@
             location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/instant-run-apk/debug/sample-app-debug.apk"
@@ -66,8 +66,8 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="FIELD_ADDED"
-        timestamp="1537102179108"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1537123956659"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/split-apk/debug/slices/slice_1.apk"
@@ -78,7 +78,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1537102574275"
+        timestamp="1537125181877"
         verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

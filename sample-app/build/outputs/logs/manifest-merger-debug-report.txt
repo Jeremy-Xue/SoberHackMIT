@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-33:12
 MERGED from [hardware-1.0.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/hardware-1.0.0.aar/00d1d45289ae4f46e20cb565059b63fe/AndroidManifest.xml:2:1-13:12
 MERGED from [settings-1.4.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/settings-1.4.0.aar/98539d5463dd9f7270ea9b77480e2d1d/AndroidManifest.xml:2:1-13:12
 MERGED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:2:1-28:12
@@ -20,37 +20,45 @@ MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/jeremy/.gra
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/9f3e21fa58862228813b0e3e1f1f1d19/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/fcd196793cfcd2145f6978927527c066/AndroidManifest.xml:16:1-26:12
 MERGED from [com.android.support:support-v4:23.4.0] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/3725a6a9f703bbdf1d5bb0cf0bedfb42/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:11-33
 		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
 		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-33:12
 		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-31:12
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:2:1-33:12
 		INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:3:5-63
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:6:5-79
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:7:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:7:5-67
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:8:5-67
 	android:name
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:7:22-64
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:8:22-64
 uses-permission#com.gm.vehicle.permission.READ_MOTION_DRIVING_BEHAVIOR
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:8:5-94
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:9:5-94
 	android:name
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:8:22-91
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:9:22-91
+uses-permission#com.gm.vehicle.permission.READ_SAFETY_SYSTEMS_DRIVING_BEHAVIOR
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:10:5-102
+	android:name
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:10:22-99
+uses-permission#com.gm.vehicle.permission.READ_BRAKE_DRIVING_BEHAVIOR
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:11:5-93
+	android:name
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:11:22-90
 application
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:10:5-29:19
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:12:5-31:19
 MERGED from [hardware-1.0.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/hardware-1.0.0.aar/00d1d45289ae4f46e20cb565059b63fe/AndroidManifest.xml:11:5-47
 MERGED from [hardware-1.0.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/hardware-1.0.0.aar/00d1d45289ae4f46e20cb565059b63fe/AndroidManifest.xml:11:5-47
 MERGED from [settings-1.4.0.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/settings-1.4.0.aar/98539d5463dd9f7270ea9b77480e2d1d/AndroidManifest.xml:11:5-47
@@ -82,35 +90,35 @@ MERGED from [com.android.support:support-v4:23.4.0] /Users/jeremy/.gradle/caches
 	android:supportsRtl
 		ADDED from [signals-1.0.1.aar] /Users/jeremy/.gradle/caches/transforms-1/files-1.1/signals-1.0.1.aar/0457eb93171550d0c7d96584e3cb64eb/AndroidManifest.xml:18:9-35
 	android:label
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:15:9-41
 	android:icon
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:13:9-35
 activity#com.lyft.sdk.SampleBasicActivity
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:15:9-21:20
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:17:9-23:20
 	android:name
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:15:19-54
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:17:19-54
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:16:13-20:29
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:17:17-69
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:19:17-77
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:21:27-74
 activity#com.lyft.sdk.SampleLocationAwareActivity
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:22:9-28:20
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:24:9-30:20
 	android:name
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:22:19-62
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:24:19-62
 intent-filter#action:name:android.intent.action.DEFAULT+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:23:13-27:29
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:25:13-29:29
 action#android.intent.action.DEFAULT
-ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:24:17-72
+ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:26:17-72
 	android:name
-		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:24:25-69
+		ADDED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml:26:25-69
 uses-sdk
 INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/jeremy/Desktop/Sober/sample-app/src/main/AndroidManifest.xml

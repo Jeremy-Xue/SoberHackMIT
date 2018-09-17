@@ -2,11 +2,13 @@
 <manifest package="com.lyft.sdk"
     xmlns:android="http://schemas.android.com/apk/res/android"
     >
+    
 
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="com.gm.vehicle.permission.READ_MOTION_DRIVING_BEHAVIOR" />
-
+    <uses-permission android:name="com.gm.vehicle.permission.READ_SAFETY_SYSTEMS_DRIVING_BEHAVIOR" />
+    <uses-permission android:name="com.gm.vehicle.permission.READ_BRAKE_DRIVING_BEHAVIOR" />
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"

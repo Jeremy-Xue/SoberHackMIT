@@ -11,6 +11,8 @@
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="com.gm.vehicle.permission.READ_MOTION_DRIVING_BEHAVIOR" />
+    <uses-permission android:name="com.gm.vehicle.permission.READ_SAFETY_SYSTEMS_DRIVING_BEHAVIOR" />
+    <uses-permission android:name="com.gm.vehicle.permission.READ_BRAKE_DRIVING_BEHAVIOR" />
     <uses-permission android:name="com.gm.apimanager.permission.VEHICLE_DATA_SERVICE" />
     <uses-permission android:name="com.gm.apimanager.permission.ACCESS_VEHICLE_DATA_SERVICE" />
     <uses-permission android:name="com.gm.apimanager.permission.ACCESS_SELF_REINSTALL_SERVICE" />

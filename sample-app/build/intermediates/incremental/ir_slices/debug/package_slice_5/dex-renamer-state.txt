@@ -1,4 +1,4 @@
-#Sun Sep 16 08:40:05 EDT 2018
+#Sun Sep 16 10:34:24 EDT 2018
 base.0=/Users/jeremy/Desktop/Sober/sample-app/build/intermediates/transforms/dexMerger/debug/5
 path.0=classes.dex
 renamed.0=classes.dex
