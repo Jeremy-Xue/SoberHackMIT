@@ -1,166 +1,56 @@
-# Lyft Android SDK
+## Inspiration
+In August, one of our team members was hit by a drunk driver. She survived with a few cuts and bruises, but unfortunately, there are many victims who are not as lucky. The emotional and physical trauma she and other drunk-driving victims experienced motivated us to try and create a solution in the problem space.
 
-The Official Lyft Android SDK makes it easy to integrate Lyft into your app. More specifically, it provides:
-- An easily configurable Lyft button which can display cost, ETA, and ride type. Tapping the button deeplinks into the Lyft app with pre-filled pickup/destination/ridetype.
-- A Java interface for making sync/async calls to Lyft's REST APIs
-- Two sample Android Activities that show how to use the SDK components.
+Our team initially started brainstorming ideas to help victims of car accidents contact first response teams faster, but then we thought, what if we could find an innovative way to reduce the amount of victims? How could we help victims by preventing them from being victims in the first place, and ensuring the safety of drivers themselves? 
 
-## Registration
-- You must first create a Lyft Developer account [here](https://www.lyft.com/developers).
-- Once registered, you will be assigned a Client ID and will be able to generate Client Tokens.
+Despite current preventative methods, alcohol-related accidents still persist. According to the National Highway Traffic Safety Administration, in the United States, there is a death caused by motor vehicle crashes involving an alcohol-impaired driver every 50 minutes. The most common causes are rooted in failing to arrange for a designated driver, and drivers overestimating their sobriety. In order to combat these issues, we developed a hardware and software tool that can be integrated into motor vehicles. 
 
-## Setup and Installation
+We took inspiration from the theme “Hack for a Night out”. While we know this theme usually means making the night out a better time in terms of fun, we thought that another aspect of nights out that could be improved is getting everyone home safe. Its no fun at all if people end up getting tickets, injured, or worse after a fun night out, and we’re hoping that our app will make getting home a safer more secure journey.
 
-### Gradle:
+## What it does
+This tool saves lives. 
 
-```gradle
-repositories {
-  mavenCentral() // or jcenter()
-}
+It passively senses the alcohol levels in a vehicle using a gas sensor that can be embedded into a car’s wheel or seat. Using this data, it discerns whether or not the driver is fit to drive and notifies them. If they should not be driving, the app immediately connects the driver to alternative options of getting home such as Lyft, emergency contacts, and professional driving services, and sends out the driver’s location.
 
-dependencies {
-    compile 'com.lyft:lyft-android-sdk:1.0.3'
-}
-```
+There are two thresholds from the sensor that are taken into account: no alcohol present and alcohol present. If there is no alcohol present, then the car functions normally. If there is alcohol present, the car immediately notifies the driver and provides the options listed above. Within the range between these two thresholds, our application uses car metrics and user data to determine whether the driver should pull over or not. In terms of user data, if the driver is under 21 based on configurations in the car such as teen mode, the app indicates that the driver should pull over. If the user is over 21, the app will notify if there is reckless driving detected, which is based on car speed, the presence of a seatbelt, and the brake pedal position.
 
-If you only want to use the [Lyft API Wrapper](https://github.com/lyft/lyft-android-sdk#lyft-api-wrapper) or [Deeplink](https://github.com/lyft/lyft-android-sdk#deeplinking) portion of the SDK, you can pull them individually.
-```gradle
-compile 'com.lyft:lyft-android-sdk-networking:1.0.3'  // Lyft API Wrapper
-compile 'com.lyft:lyft-android-sdk-deeplink:1.0.3'    // Deeplink
-```
 
-### Maven:
-```xml
-<dependency>
-  <groupId>com.lyft</groupId>
-  <artifactId>lyft-android-sdk</artifactId>
-  <version>1.0.3</version>
-  <type>aar</type>
-</dependency>
-```
+## How we built it
+Hardware Materials:
+*    Arduino uno
+*    Wires
+*    Grove alcohol sensor
+*    HC-05 bluetooth module
+*    USB 2.0 b-a
+*    Hand sanitizer (ethyl alcohol)
 
-## Lyft Button
+Software Materials:
+*    Android studio
+*    Arduino IDE
+*    General Motors Info3 API
+*    Lyft API
+*    FireBase
 
-Adding the Lyft Button in an XML layout is as simple as:
-```xml
-<com.lyft.lyftbutton.LyftButton
-    android:id="@+id/lyft_button"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    lyft:lyftStyle="lyftMulberryDark"
-    />
-```
-We recommend setting the width/height to `wrap_content`, which results in a width of 260dp and a height of 50dp.
-Otherwise, please keep in mind that a smaller width/height may result in undesirable UI, such as overlapping text.
+## Challenges we ran into
+Some of the biggest challenges we ran into involved Android Studio. Fundamentally, testing the app on an emulator limited our ability to test things, with emulator incompatibilities causing a lot of issues. Fundamental problems such as lack of bluetooth also hindered our ability to work and prevented testing of some of the core functionality. In order to test erratic driving behavior on a road, we wanted to track a driver’s ‘Yaw Rate’ and ‘Wheel Angle’, however, these parameters were not available to emulate on the Mock Vehicle simulator app. 
+We also had issues picking up Android Studio for members of the team new to Android, as the software, while powerful, is not the easiest for beginners to learn. This led to a lot of time being used to spin up and just get familiar with the platform. Finally, we had several issues dealing with the hardware aspect of things, with the arduino platform being very finicky and often crashing due to various incompatible sensors, and sometimes just on its own regard. 
 
-To load ETA/cost:
-```java
-ApiConfig apiConfig = new ApiConfig.Builder()
-        .setClientId("your_client_id")
-        .setClientToken("your_client_token")
-        .build();
 
-LyftButton lyftButton = (LyftButton) findViewById(R.id.lyft_button);
-lyftButton.setApiConfig(apiConfig);
+## Accomplishments that we're proud of
+We managed to get the core technical functionality of our project working, including a working alcohol air sensor, and the ability to pull low level information about the movement of the car to make an algorithmic decision as to how the driver was driving. We were also able to wirelessly link the data from the arduino platform onto the android application. 
 
-RideParams.Builder rideParamsBuilder = new RideParams.Builder()
-        .setPickupLocation(37.7766048, -122.3943576)
-        .setDropoffLocation(37.759234, -122.4135125);
-rideParamsBuilder.setRideTypeEnum(RideTypeEnum.CLASSIC);
 
-lyftButton.setRideParams(rideParamsBuilder.build());
-lyftButton.load();
-```
+## What we learned
+*    Learn to adapt quickly and don’t get stuck for too long
 
-Addresses can also be used for pickup/dropoff locations. Each address results in an extra API call to obtain the corresponding lat/lng pair. Therefore, we recommend using lat/lng values directly if they are available. 
-```java
-RideParams.Builder rideParamsBuilder = new RideParams.Builder()
-        .setPickupAddress("185 Berry St, San Francisco, CA 94107")
-        .setDropoffAddress("2300 Harrison St, San Francisco, CA 94110");
-```
+*    Always have a backup plan
 
-### Ride types
-Lyft is growing very quickly and is currently available in [these cities](https://www.lyft.com/cities). Please keep in mind that some ride types (such as Lyft Line) are not yet available in all Lyft cities. If you set the ride type of the button  and it happens to be unavailable, the button will default to the Lyft Classic ride type. You can utilize the [`/v1/ridetypes`](https://developer.lyft.com/docs/availability-ride-types) endpoint to get a list of the available ride types in an area.
+## What's next for Drink+Dryve
+*    Minimize hardware to create a  compact design for the alcohol sensor, built to be placed inconspicuously on the steering wheel
 
-### Button styles
-To specify the button style via XML, use the `lyft:lyftStyle` attribute or set it programmatically:
-```java
-lyftButton.setStyle(LyftStyle.MULBERRY_DARK);
-```
+*    Testing on actual car to simulate real driving circumstances (under controlled conditions), to get parameter data like ‘Yaw Rate’ and ‘Wheel Angle’, test screen prompts on car display (emulator did not have this feature so we mimicked it on our phones), and connecting directly to the Bluetooth feature of the car (a separate apk would need to be side-loaded onto the car or some wi-fi connection would need to be created because the car functionality does not allow non-phone Bluetooth devices to be detected)
 
-There are 5 styles to pick from:
+*    Other features: Add direct payment using service such as Plaid, facial authentication; use Docusign to share incidents with a driver’s insurance company to review any incidents of erratic/drunk-driving 
 
-![lyft-styles](https://cloud.githubusercontent.com/assets/13209348/17683300/88f86446-6306-11e6-81e6-bc42fc77650e.png)
-
-## Lyft API Wrapper
-The SDK provides wrapper methods around Lyft's REST APIs - this can be helpful when you want to build a more custom integration with the Lyft platform vs making HTTP requests directly.
-
-The SDK uses Square's [Retrofit 2](http://square.github.io/retrofit/) networking library. For each [Lyft Public API endpoint](http://petstore.swagger.io/?url=https://api.lyft.com/v1/spec#!/Public/), there is a corresponding Java method. The return type is a `Call` object which can be executed synchronously or asynchronously. See [LyftPublicApi.java](https://github.com/lyft/lyft-android-sdk/blob/master/networking/src/main/java/com/lyft/networking/apis/LyftPublicApi.java) for all the API methods.
-
-```java
-LyftPublicApi lyftPublicApi = new LyftApiFactory(apiConfig).getLyftPublicApi();
-Call<EtaEstimateResponse> etaCall = lyftPublicApi.getEtas(37.7766048, -122.3943576, "lyft");
-```
-Asynchronous:
-```java
-etaCall.enqueue(new Callback<EtaEstimateResponse>() {
-    @Override
-    public void onResponse(Call<EtaEstimateResponse> call, Response<EtaEstimateResponse> response) {
-        EtaEstimateResponse etaEstimateResponse = response.body();
-        Eta eta = etaEstimateResponse.eta_estimates.get(0);
-    }
-
-    @Override
-    public void onFailure(Call<EtaEstimateResponse> call, Throwable t) {
-        Log.d("MyApp", t.toString());
-    }
-});
-```
-
-Synchronous:
-```java
-EtaEstimateResponse etaEstimateResponse = etaCall.execute().body();
-Eta eta = etaEstimateResponse.eta_estimates.get(0);
-```
-
-### RxJava Observables
-If you already use RxJava (your app must have it as a dependency), then you can obtain an `Observable` instead of a `Call` object. Simply use [LyftPublicApiRx](https://github.com/lyft/lyft-android-sdk/blob/master/networking/src/main/java/com/lyft/networking/apis/LyftPublicApiRx.java) instead of LyftPublicApi.
-
-```java
-LyftPublicApiRx lyftPublicApiRx = new LyftApiFactory(apiConfig).getLyftPublicApiRx();
-Observable<EtaEstimateResponse> etaObservable = lyftPublicApiRx.getEtas(37.7766048, -122.3943576, "lyft");
-```
-
-### ProGuard
-If you are directly using the Lyft Wrapper API without using the `Lyft Button`, then you may need to add the the ProGuard rules for Retrofit. Please see [proguard-rules.pro](https://github.com/lyft/lyft-android-sdk/blob/master/lyft-button/proguard-rules.pro). This only applies if you are using ProGuard.
-
-## Deeplinking
-The SDK provides direct [deeplinking](https://developer.lyft.com/docs/deeplinking) to the Lyft app for those developers who prefer to handle their own custom deeplinking vs relying on the Lyft Button.. The `deeplink` module of the SDK includes this logic and makes it easy to launch the Lyft app.
-```java
-DeepLinkParams deepLinkParams = new DeepLinkParams.Builder()
-        .setClientId("your_client_id")
-        .setRideType("lyft_line")
-        .setPickupLocation(37.7766048, -122.3943576)
-        .setDropoffLocation(37.759234, -122.4135125)
-        .build();
-
-DeepLink.launchLyftApp(getContext(), deepLinkParams);
-```
-
-## Sample Activities
-Checkout the sample activites which are included in the SDK, in the `sample-app` module:
-  - `SampleBasicActivity`: Includes minimal code to set up the Lyft Button.
-  - `SampleLocationAwareActivity`: Gets the device's current GPS location and calls the `/v1/ridetypes` endpoint to get a list of the available ride types in the area (i.e. Lyft Line, Lyft Plus, etc). The user is able to select an available ride type via a dropdown. The Lyft Button then displays the current ETA and cost of that ride type to a specified destination.
-
-You can specify which activity to launch in the `sample-app`'s [AndroidManifest.xml](https://github.com/lyft/lyft-android-sdk/blob/master/sample-app/src/main/AndroidManifest.xml).
-
-## Support
-
-If you're looking for help configuring or using the SDK, or if you have general questions related to our APIs, the Lyft Developer Platform team provides support through our [forum](https://developer.lyft.com/discuss) as well as on Stack Overflow (using the `lyft-api` tag)
-
-## Reporting security vulnerabilities
-
-If you've found a vulnerability or a potential vulnerability in the Lyft Android SDK,
-please let us know at security@lyft.com. We'll send a confirmation email to
-acknowledge your report, and we'll send an additional email when we've
-identified the issue positively or negatively.
+*    Our key priority is making sure the driver is no longer in a compromising position to hurt other drivers and is no longer a danger to themselves. We want to integrate more mixed mobility options, such as designated driver services such as Dryver that would allow users to have more options to get home outside of just ride share services, and we would want to include a service such as Plaid to allow for driver payment information to be transmitted securely. 
+We would also like to examine a driver’s behavior over a longer period of time, and collect relevant data to develop a machine learning model that would be able to indicate if the driver is drunk driving more accurately. Prior studies have shown that logistic regression, SVM, decision trees can be utilized to report drunk driving with 80% accuracy. 
